@@ -22,14 +22,14 @@ Click the "Start Simulation" button on the main form to begin the simulation of 
 ### Car Movement
 Cars will move across the roads, reappearing at the beginning of the road after reaching the end. The speed of each car is predefined.
 
-![Alt text](./images/screenshot.png)
-
 ### Traffic Lights
 Traffic lights control the flow of cars at the intersection:
 
 - Green: Cars move freely.
 - Yellow: Transition between green and red.
 - Red: Cars stop if they haven't crossed the intersection.
+
+![Alt text](./images/screenshot.png)
 
 ## Setup Instructions
 
