@@ -29,7 +29,7 @@ Traffic lights control the flow of cars at the intersection:
 - Yellow: Transition between green and red.
 - Red: Cars stop if they haven't crossed the intersection.
 
-![Alt text](./images/screenshot.png)
+![App Screenshot](./images/screenshot.png)
 
 ## Setup Instructions
 
