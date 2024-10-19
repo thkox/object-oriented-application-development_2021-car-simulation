@@ -5,8 +5,8 @@
 This project is an individual assignment for the "Object-Oriented Application Development" course, offered in the 3rd semester of the 2021 academic year at the University of Piraeus, Department of Informatics. The goal is to create a Windows Forms application to simulate cars moving on two intersecting roads. The simulation involves managing car movements, traffic lights, and road intersections, with hardcoded speeds and traffic light timings. The application will demonstrate object-oriented programming principles and basic GUI development in a Windows environment.
 
 ## Course Information
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Object-Oriented Application Development (2021)
 - **Semester:** 3rd
 
